@@ -1,8 +1,12 @@
 # order-app
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+## App Preview
 
+* invoices index page
+![alt text](https://ibb.co/5WF37hh)
+
+* invoice creation page
+![alt text](https://ibb.co/KjM4RTq)
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
