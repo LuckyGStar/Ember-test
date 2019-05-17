@@ -7,6 +7,10 @@ const Router = EmberRouter.extend({
 });
 
 Router.map(function() {
+  this.route('invoices', function() {
+    this.route('new');
+    this.route('edit', { path: '/:invoice_id/edit' });
+  });
 });
 
 export default Router;

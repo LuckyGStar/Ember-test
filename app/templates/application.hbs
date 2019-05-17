@@ -9,15 +9,16 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        {{#link-to 'index' class="navbar-brand"}}Order App{{/link-to}}
+        {{#link-to "index" class="navbar-brand"}}Order App{{/link-to}}
       </div>
 
       <div class="collapse navbar-collapse" id="main-navbar">
         <ul class="nav navbar-nav">
-              {{#link-to 'index' tagName="li"}}<a href="">Home</a>{{/link-to}}
+          {{#link-to "index" tagName="li"}}<a href="">Home</a>{{/link-to}}
+          {{#link-to "invoices" tagName="li"}}<a href="">Invoices</a>{{/link-to}}
         </ul>
-      </div><!-- /.navbar-collapse -->
-    </div><!-- /.container-fluid -->
+      </div>
+    </div>
   </nav>
 
   {{outlet}}

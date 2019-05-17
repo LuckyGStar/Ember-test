@@ -1,6 +1,6 @@
 import DS from 'ember-data';
 
 export default DS.Model.extend({
-  amount: DS.attr('integer'),
-  createdAt: DS.attr('date')
+  amount: DS.attr('number'),
+  creation: DS.attr('date')
 });
