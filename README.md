@@ -3,10 +3,16 @@
 ## App Preview
 
 * invoices index page
-![alt text](https://i.ibb.co/kg1Td22/Screen-Shot-2019-05-16-at-7-03-09-PM.png)
 
+![invoices list screenshot](https://i.ibb.co/kg1Td22/Screen-Shot-2019-05-16-at-7-03-09-PM.png)
+
+---
 * invoice creation page
-![alt text](https://i.ibb.co/rGC8TD6/Screen-Shot-2019-05-16-at-7-03-25-PM.png)
+
+![invoice creation screenshot](https://i.ibb.co/rGC8TD6/Screen-Shot-2019-05-16-at-7-03-25-PM.png)
+
+---
+
 ## Prerequisites
 
 You will need the following things properly installed on your computer.
